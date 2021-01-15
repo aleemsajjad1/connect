@@ -1,37 +1,37 @@
 {
   "files": {
-    "main.css": "/static/css/main.0cc18fa5.chunk.css",
-    "main.js": "/static/js/main.3d7d9d85.chunk.js",
-    "main.js.map": "/static/js/main.3d7d9d85.chunk.js.map",
+    "main.css": "/static/css/main.8a1ce6d7.chunk.css",
+    "main.js": "/static/js/main.eeba6641.chunk.js",
+    "main.js.map": "/static/js/main.eeba6641.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.637ec23c.js",
     "runtime-main.js.map": "/static/js/runtime-main.637ec23c.js.map",
     "static/css/2.064924bc.chunk.css": "/static/css/2.064924bc.chunk.css",
-    "static/js/2.aeb6205f.chunk.js": "/static/js/2.aeb6205f.chunk.js",
-    "static/js/2.aeb6205f.chunk.js.map": "/static/js/2.aeb6205f.chunk.js.map",
+    "static/js/2.041243b0.chunk.js": "/static/js/2.041243b0.chunk.js",
+    "static/js/2.041243b0.chunk.js.map": "/static/js/2.041243b0.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.0e8569e32054fee5de73bbb9c9b6d588.js": "/precache-manifest.0e8569e32054fee5de73bbb9c9b6d588.js",
+    "precache-manifest.f63501ad3afa479ae4516a8d62648837.js": "/precache-manifest.f63501ad3afa479ae4516a8d62648837.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.064924bc.chunk.css.map": "/static/css/2.064924bc.chunk.css.map",
-    "static/css/main.0cc18fa5.chunk.css.map": "/static/css/main.0cc18fa5.chunk.css.map",
-    "static/js/2.aeb6205f.chunk.js.LICENSE.txt": "/static/js/2.aeb6205f.chunk.js.LICENSE.txt",
+    "static/css/main.8a1ce6d7.chunk.css.map": "/static/css/main.8a1ce6d7.chunk.css.map",
+    "static/js/2.041243b0.chunk.js.LICENSE.txt": "/static/js/2.041243b0.chunk.js.LICENSE.txt",
     "static/media/2.png": "/static/media/2.1e140a7c.png",
     "static/media/AppStore.png": "/static/media/AppStore.08926ebe.png",
     "static/media/BillingPage.png": "/static/media/BillingPage.12cb447a.png",
     "static/media/Capture.PNG": "/static/media/Capture.b279934e.PNG",
     "static/media/SoConnect_ROUNDED.png": "/static/media/SoConnect_ROUNDED.f186bf3c.png",
     "static/media/card.png": "/static/media/card.725d900b.png",
-    "static/media/BillingInfo.css": "/static/media/lock-gray.68903800.png",
+    "static/media/BillingInfo.css": "/static/media/lock.79ec0c2a.png",
     "static/media/logo.png": "/static/media/logo.94fee3eb.png",
     "static/media/main.png": "/static/media/main.593b5b45.png",
     "static/media/print.png": "/static/media/print.20453ff3.png",
     "static/media/right-mark.png": "/static/media/right-mark.89b59ab8.png",
-    "static/media/SignUp.css": "/static/media/web.293e5c29.png"
+    "static/media/SignUp.css": "/static/media/web2.9e2d27a9.png"
   },
   "entrypoints": [
     "static/js/runtime-main.637ec23c.js",
     "static/css/2.064924bc.chunk.css",
-    "static/js/2.aeb6205f.chunk.js",
-    "static/css/main.0cc18fa5.chunk.css",
-    "static/js/main.3d7d9d85.chunk.js"
+    "static/js/2.041243b0.chunk.js",
+    "static/css/main.8a1ce6d7.chunk.css",
+    "static/js/main.eeba6641.chunk.js"
   ]
 }
